@@ -1,5 +1,7 @@
 # Dancer
 
+> **A2A experimental branch — MERGED.** The A2A-native Athenaeum work from this branch has been merged into [`github.com/JackReis/dancer`](https://github.com/JackReis/dancer) `main` and tagged [`v0.3.0`](https://github.com/JackReis/dancer/releases/tag/v0.3.0). This repo is now archived. Use the main repo for ongoing work.
+>
 > **Fork notice:** This is Jack Reis's fork of an MIT-licensed upstream (original copyright Jeremy Longshore, 2025 — see [LICENSE](LICENSE) for the intact notice). Renamed to `dancer` on 2026-04-20 for a distinct namespace. Upstream content (254 plugins) retained under MIT; Jack-authored additions live in their own plugin directories with their own LICENSE. See [NOTICE](NOTICE) for attribution details. Install path: `/plugin install <name>@dancer`.
 >
 > The upstream URL is intentionally NOT linked here — see NOTICE for the mirror-scripted form. Belt-and-suspenders protection against agents auto-resolving and re-adding upstream as a remote.
